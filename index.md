@@ -1,3 +1,5 @@
+![Juelz Header](assets/images/JullianDeVilier.png)
+
 ## Jullian Boyd De Villiers
 # Commonly Known as _*Juelz*_
 ---
