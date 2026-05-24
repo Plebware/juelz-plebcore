@@ -1,7 +1,7 @@
 ## Jullian Boyd De Villiers
 # Commonly Known as _*Juelz*_
 ---
-##### |🖥️ Main Control Hub - [Plebware Control Center](https://plebware.github.io/Plebware/) |⚙️ Technical Core - [PlebMachine Core](https://plebware.github.io/PlebMachine/) |✍️ Writing & Archive - [Otto Archive](https://plebware.github.io/otto/)
+##### |🖥️ - [Plebware Control Center](https://plebware.github.io/Plebware/) |⚙️ - [PlebMachine Core](https://plebware.github.io/PlebMachine/) |✍️ - [Otto's Archive](https://plebware.github.io/otto/) | 📚 Main - [O.C.V] (https://www.othelloverrocchio.co.za/) |
 ---
 
 # 🎧 Julian Boyd De Villiers
