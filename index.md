@@ -9,6 +9,8 @@
 # 🎧 Julian Boyd De Villiers
 
 ## AKA: Juelz • DJ Boy Mist
+---
+### [Juelz Own GitHub Page](https://juelz-blue.github.io/plebcore/)
 
 Musician • Audio Producer • FL Studio Enthusiast • Creative Collaborator
 
