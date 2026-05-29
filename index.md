@@ -1,9 +1,9 @@
 ![Juelz Header](assets/images/JullianDeVilier.png)
 
 ## Jullian Boyd De Villiers
-# Commonly Known as _*Juelz*_
+# Commonly Known as _**Juelz**_
 ---
-##### |🖥️ - [Plebware Control Center](https://plebware.github.io/Plebware/) |⚙️ - [PlebMachine Core](https://plebware.github.io/PlebMachine/) |✍️ - [Otto's Archive](https://plebware.github.io/otto/) | 📚 - [Othello C. Verrocchio](https://www.othelloverrocchio.co.za/) |
+##### |🖥️ - [Plebware Control Center](https://plebware.github.io/) |⚙️ - [PlebMachine Core](https://plebware.github.io/PlebMachine/) |✍️ - [Otto's Archive](https://plebware.github.io/otto/) | 📚 - [Othello C. Verrocchio](https://www.othelloverrocchio.co.za/) |
 ---
 
 # 🎧 Julian Boyd De Villiers
