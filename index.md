@@ -1,12 +1,11 @@
-![Juelz Header](assets/images/JullianDeVilier.png)
-
-## Jullian Boyd De Villiers
-# Commonly Known as _**Juelz**_
 ---
 layout: default
 title: PlebMachine Core
 ---
 
+## Jullian Boyd De Villiers
+# Commonly Known as _**Juelz**_
+-----
 
 # 🎧 Julian Boyd De Villiers
 
