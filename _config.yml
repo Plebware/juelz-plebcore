@@ -1,5 +1,4 @@
-# _config.yml for juelz-plebcore
-baseurl: "/PlebWaveFrontier"  # This is critical for project sites
+baseurl: "/juelz-plebcore"
 url: "https://plebware.github.io"
 
 plugins:
