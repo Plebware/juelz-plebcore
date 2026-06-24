@@ -11,7 +11,7 @@ title: PlebMachine Core
 
 ## AKA: Juelz • DJ Boy Mist
 ---
-### [Juelz Own GitHub Page](https://juelz-blue.github.io/plebcore/)
+{% include dashboard.html %}
 
 Musician • Audio Producer • FL Studio Enthusiast • Creative Collaborator
 
