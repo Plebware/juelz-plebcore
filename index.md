@@ -96,7 +96,7 @@ The focus has always remained on authentic creation rather than commercial imita
 ## 🌐 Linked Systems
 
 ### 🖥️ Main Control Hub
-- [Plebware Control Center](https://plebware.github.io/Plebware/)
+- [Plebware Control Center](https://plebware.github.io)
 
 ### ⚙️ Technical Core
 - [PlebMachine Core](https://plebware.github.io/PlebMachine/)
