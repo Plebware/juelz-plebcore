@@ -3,5 +3,6 @@ url: "https://plebware.github.io"
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-sitemap
 
 remote_theme: Plebware/pleb-theme
